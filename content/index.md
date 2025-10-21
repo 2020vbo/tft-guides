@@ -1,18 +1,7 @@
 ---
-
 title: Example Title
-
 draft: false
-
-tags: -
-
+tags:
+  - nav
 ---
----
-
-title: Example Title
-
-draft: false
-
-tags: -
-
----
+weeeee
