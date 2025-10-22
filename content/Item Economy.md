@@ -3,6 +3,7 @@ title: Item Economy
 draft: false
 tags:
   - items
+  - resource-management
 ---
 Each player in a given TFT lobby will receive the same number of components dropped from neutrals. This means that if you put yourself in a position where you are forced to slam items that don't contribute to the power of your board, you'll effectively be missing items compared to other players. To avoid this, we need to think about our item economy.
 

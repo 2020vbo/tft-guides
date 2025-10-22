@@ -2,7 +2,7 @@
 title: Economy - When to Spend Gold
 draft: false
 tags:
-  -
+  - resource-management
 ---
 The strength of your board will roughly correlate with the amount of gold you have spent. Spending gold on XP is obvious: being higher level gives you more units on your board and greater access to higher cost units. Spending gold on rolls will allow you to see more units, meaning you are more likely to have upgraded units. The more gold you've spent rolling, the closer you (theoretically) get to a "handpicked" board, because with infinite gold, you wouldn't stop rolling until you had exactly everything as you wanted. 
 
