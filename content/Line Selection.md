@@ -2,7 +2,7 @@
 title: Line Selection
 draft: false
 tags:
-  -
+  - gameplan
 ---
 Perhaps one of the most critical skills in TFT, Line Selection is a fairly self-explanatory term: it refers to the ability to determine what lines or comp(s) to be angling from as early as possible. Narrowing down what you're likely to play allows you to make slams more confidently and reduces your mental stack since you more or less know what units you want to hold on to. It also enables you to select more specialized augments over augments that provide generic buffs. In order to inform your early and midgame decisions as much as possible, it's generally ideal to have a line in mind on 2-1 while still leaving some room for flexibility in case of unfavorable variance.
 

@@ -2,7 +2,7 @@
 title: Playing a Contested Line
 draft: false
 tags:
-  -
+  - gameplan
 ---
 Playing a contested line almost always lowers your average placement and makes your board noticeably more expensive to hit. This means your chances of reaching higher levels and fully capping out your board are significantly lower, and you'll have to pay special attention to properly managing your econ. In order to reach greater consistency, it's important to understand when to pivot and when to remain on the contested line.
 ### If you're contested on a reroll line
